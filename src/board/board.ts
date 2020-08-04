@@ -4,7 +4,7 @@ import {
   Pos, 
   PosReadable,
   Direction
-} from '../pos/pos';
+} from '../pos/pos.ts';
 
 /**
  * @ignore
